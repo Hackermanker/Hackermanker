@@ -2,6 +2,6 @@
     ──「 Rogue 」──
 </h2>
 <p align="center">
-  <img src="https://te.legra.ph/file/0352bc68867a8ffa57d1e.jpg">
+  <img src="https://te.legra.ph/file/05a3e40fa06809b07abd4.jpg">
 </p>
 
