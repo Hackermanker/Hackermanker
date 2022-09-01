@@ -5,3 +5,6 @@
   <img src="https://te.legra.ph/file/05a3e40fa06809b07abd4.jpg">
 </p>
 
+
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʀᴏɢᴜᴇ](https://t.me/Oriksonic)**_
+━━━
