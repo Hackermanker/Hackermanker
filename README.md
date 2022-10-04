@@ -4,4 +4,8 @@
 <div align="center">
 <br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Aadhi000}/count.svg"/></p> 
+<p align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=Hackermanker&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+</p>    
+
 
