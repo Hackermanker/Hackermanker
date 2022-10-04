@@ -7,6 +7,10 @@
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api/?username=Hackermanker&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>  
+<p align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=Hackermanker&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+</p>    
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hackermanker&theme=highcontrast)](https://github.com/Hackermanker/github-readme-streak-stats)
 </div>  
 
