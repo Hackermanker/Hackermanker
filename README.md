@@ -1,11 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝗥𝗢𝗚𝗨𝗘+𝗣𝗦𝗘𝗨𝗗𝗢!;𝗔+𝗡𝗢𝗼𝗕+𝗣𝗬𝗧𝗛𝗢𝗡+𝗣𝗥𝗢-+𝗚𝗥𝗔𝗠𝗠𝗘𝗥!;𝗖𝗨𝗥𝗥𝗘𝗡𝗧𝗟𝗬+𝗦𝗧𝗨𝗗𝗬𝗜𝗡𝗚+𝗜𝗡+12𝘁𝗵+𝗦𝗧𝗔𝗡𝗗𝗔𝗥𝗗!)</p>
-<p align="center">
 
+<p align="center">
 [![@rogue12's Holopin board](https://holopin.me/rogue12)](https://holopin.io/@rogue12)
+</p>
   
 <div align="center">
 <br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Aadhi000}/count.svg"/></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Hackermanker}/count.svg"/></p> 
 
  [![𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shibi_l____)
  [![𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠](https://img.shields.io/badge/Telegram-%23E4405F.svg?logo=Telegram&logoColor=white)](https://t.me/Oriksonic)
