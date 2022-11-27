@@ -14,6 +14,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hackermanker&theme=highcontrast)](https://github.com/Hackermanker/github-readme-streak-stats)
 </div>  
 
-[![@rogue12's Holopin board](https://holopin.me/rogue12)](https://holopin.io/@rogue12)
 
 
