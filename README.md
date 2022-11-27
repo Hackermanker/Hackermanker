@@ -4,7 +4,7 @@
 <br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Aadhi000}/count.svg"/></p> 
 
- [![𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shibi_l____)
+ 
  [![𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠](https://img.shields.io/badge/Telegram-%23E4405F.svg?logo=Telegram&logoColor=white)](https://t.me/Oriksonic)
 
 <p align="center">
