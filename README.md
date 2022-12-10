@@ -5,7 +5,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Aadhi000}/count.svg"/></p> 
 
  
- [![𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠](https://img.shields.io/badge/Telegram-%23E4405F.svg?logo=Telegram&logoColor=white)](https://t.me/Oriksonic)
+ [![𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠](https://img.shields.io/badge/Telegram-%23E4405F.svg?logo=Telegram&logoColor=white)](https://telegram.dog/Oriksonic)
 
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api/?username=Hackermanker&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
