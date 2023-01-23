@@ -9,5 +9,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hackermanker&theme=highcontrast)](https://github.com/Hackermanker/github-readme-streak-stats)
 </div>  
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Hackermanker&show_icons=true&include_all_commits=true&cache_seconds=86400&theme=radica)
+<br>
+
 
 
